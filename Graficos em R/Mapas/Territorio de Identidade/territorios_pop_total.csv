@@ -1,0 +1,82 @@
+;Territorio.de.Identidade;CD_TI;Ano;total_ter;faixas_pop
+1;Bacia do Jacuípe;15;1991;273607;201 mil - 300 mil
+2;Bacia do Jacuípe;15;2000;240162;201 mil - 300 mil
+3;Bacia do Jacuípe;15;2010;237267;201 mil - 300 mil
+4;Bacia do Paramirim;12;1991;141861;100 mil - 200 mil 
+5;Bacia do Paramirim;12;2000;156370;100 mil - 200 mil 
+6;Bacia do Paramirim;12;2010;163162;100 mil - 200 mil 
+7;Bacia do Rio Corrente;23;1991;197457;100 mil - 200 mil 
+8;Bacia do Rio Corrente;23;2000;199927;100 mil - 200 mil 
+9;Bacia do Rio Corrente;23;2010;200819;201 mil - 300 mil
+10;Bacia do Rio Grande;11;1991;265303;201 mil - 300 mil
+11;Bacia do Rio Grande;11;2000;313586;301 mil - 400 mil
+12;Bacia do Rio Grande;11;2010;398034;301 mil - 400 mil
+13;Baixo Sul;6;1991;314459;301 mil - 400 mil
+14;Baixo Sul;6;2000;326286;301 mil - 400 mil
+15;Baixo Sul;6;2010;359109;301 mil - 400 mil
+16;Chapada Diamantina;3;1991;353939;301 mil - 400 mil
+17;Chapada Diamantina;3;2000;367105;301 mil - 400 mil
+18;Chapada Diamantina;3;2010;371864;301 mil - 400 mil
+19;Costa do Descobrimento;27;1991;199065;100 mil - 200 mil 
+20;Costa do Descobrimento;27;2000;292680;201 mil - 300 mil
+21;Costa do Descobrimento;27;2010;343347;301 mil - 400 mil
+22;Extremo Sul;7;1991;334154;301 mil - 400 mil
+23;Extremo Sul;7;2000;372170;301 mil - 400 mil
+24;Extremo Sul;7;2010;416859;401 mil - 500 mil
+25;Irecê;1;1991;369165;301 mil - 400 mil
+26;Irecê;1;2000;381535;301 mil - 400 mil
+27;Irecê;1;2010;402828;401 mil - 500 mil
+28;Itaparica;24;1991;131554;100 mil - 200 mil 
+29;Itaparica;24;2000;149749;100 mil - 200 mil 
+30;Itaparica;24;2010;167118;100 mil - 200 mil 
+31;Litoral Norte e Agreste Baiano;18;1991;489992;401 mil - 500 mil
+32;Litoral Norte e Agreste Baiano;18;2000;561199;501 mil - 600 mil
+33;Litoral Norte e Agreste Baiano;18;2010;628236;Mais que 600 mil
+34;Litoral Sul;5;1991;867653;Mais que 600 mil
+35;Litoral Sul;5;2000;843901;Mais que 600 mil
+36;Litoral Sul;5;2010;772683;Mais que 600 mil
+37;Médio Rio de Contas;22;1991;390182;301 mil - 400 mil
+38;Médio Rio de Contas;22;2000;389580;301 mil - 400 mil
+39;Médio Rio de Contas;22;2010;366507;301 mil - 400 mil
+40;Médio Sudoeste da Bahia;8;1991;221700;201 mil - 300 mil
+41;Médio Sudoeste da Bahia;8;2000;245334;201 mil - 300 mil
+42;Médio Sudoeste da Bahia;8;2010;247180;201 mil - 300 mil
+43;Metropolitana de Salvador;26;1991;2485174;Mais que 600 mil
+44;Metropolitana de Salvador;26;2000;3005667;Mais que 600 mil
+45;Metropolitana de Salvador;26;2010;3438844;Mais que 600 mil
+46;Piemonte da Diamantina;16;1991;217324;201 mil - 300 mil
+47;Piemonte da Diamantina;16;2000;223245;201 mil - 300 mil
+48;Piemonte da Diamantina;16;2010;229633;201 mil - 300 mil
+49;Piemonte do Paraguaçu;14;1991;259753;201 mil - 300 mil
+50;Piemonte do Paraguaçu;14;2000;256566;201 mil - 300 mil
+51;Piemonte do Paraguaçu;14;2010;265630;201 mil - 300 mil
+52;Piemonte Norte do Itapicuru;25;1991;281945;201 mil - 300 mil
+53;Piemonte Norte do Itapicuru;25;2000;249212;201 mil - 300 mil
+54;Piemonte Norte do Itapicuru;25;2010;261901;201 mil - 300 mil
+55;Portal do Sertão;19;1991;683224;Mais que 600 mil
+56;Portal do Sertão;19;2000;775268;Mais que 600 mil
+57;Portal do Sertão;19;2010;872780;Mais que 600 mil
+58;Recôncavo;21;1991;491041;401 mil - 500 mil
+59;Recôncavo;21;2000;539929;501 mil - 600 mil
+60;Recôncavo;21;2010;576672;501 mil - 600 mil
+61;Semi-Árido Nordeste II;17;1991;376607;301 mil - 400 mil
+62;Semi-Árido Nordeste II;17;2000;400263;401 mil - 500 mil
+63;Semi-Árido Nordeste II;17;2010;407928;401 mil - 500 mil
+64;Sertão do São Francisco;10;1991;380655;301 mil - 400 mil
+65;Sertão do São Francisco;10;2000;447255;401 mil - 500 mil
+66;Sertão do São Francisco;10;2010;494431;401 mil - 500 mil
+67;Sertão Produtivo;13;1991;393247;301 mil - 400 mil
+68;Sertão Produtivo;13;2000;421076;401 mil - 500 mil
+69;Sertão Produtivo;13;2010;444666;401 mil - 500 mil
+70;Sisal;4;1991;529160;501 mil - 600 mil
+71;Sisal;4;2000;552713;501 mil - 600 mil
+72;Sisal;4;2010;582329;501 mil - 600 mil
+73;Vale de Jequiriçá;9;1991;274916;201 mil - 300 mil
+74;Vale de Jequiriçá;9;2000;299592;201 mil - 300 mil
+75;Vale de Jequiriçá;9;2010;301682;301 mil - 400 mil
+76;Velho Chico;2;1991;326394;301 mil - 400 mil
+77;Velho Chico;2;2000;349689;301 mil - 400 mil
+78;Velho Chico;2;2010;370095;301 mil - 400 mil
+79;Sudoeste Baiano;20;1991;618460;Mais que 600 mil
+80;Sudoeste Baiano;20;2000;710191;Mais que 600 mil
+81;Sudoeste Baiano;20;2010;695302;Mais que 600 mil
