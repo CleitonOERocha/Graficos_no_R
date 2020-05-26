@@ -1,0 +1,28 @@
+"";"Pais";"Regiao";"UF";"CodUF";"populacao";"percent_pop_total";"ranking_geral";"ranking_nordeste";"percent_pop_nordeste"
+"1";"Brasil";"Norte";"Rondônia";11;" 1.759.255";0,008;23;NA;NA
+"2";"Brasil";"Norte";"Acre";12;"   860.999";0,004;25;NA;NA
+"3";"Brasil";"Norte";"Amazonas";13;" 3.960.015";0,019;15;NA;NA
+"4";"Brasil";"Norte";"Roraima";14;"   526.785";0,003;27;NA;NA
+"5";"Brasil";"Norte";"Pará";15;" 8.529.317";0,041;9;NA;NA
+"6";"Brasil";"Norte";"Amapá";16;"   831.352";0,004;26;NA;NA
+"7";"Brasil";"Norte";"Tocantins";17;" 1.553.487";0,007;24;NA;NA
+"8";"Brasil";"Nordeste";"Maranhão";21;" 7.026.474";0,034;11;4;0,124
+"9";"Brasil";"Nordeste";"Piauí";22;" 3.269.404";0,016;19;8;0,058
+"10";"Brasil";"Nordeste";"Ceará";23;" 9.108.030";0,044;8;3;0,16
+"11";"Brasil";"Nordeste";"Rio Grande do Norte";24;" 3.496.987";0,017;16;6;0,062
+"12";"Brasil";"Nordeste";"Paraíba";25;" 3.987.709";0,019;14;5;0,07
+"13";"Brasil";"Nordeste";"Pernambuco";26;" 9.478.270";0,045;7;2;0,167
+"14";"Brasil";"Nordeste";"Alagoas";27;" 3.325.528";0,016;18;7;0,059
+"15";"Brasil";"Nordeste";"Sergipe";28;" 2.291.108";0,011;22;9;0,04
+"16";"Brasil";"Nordeste";"Bahia";29;"14.831.948";0,071;4;1;0,261
+"17";"Brasil";"Sudeste";"Minas Gerais";31;"21.110.920";0,101;2;NA;NA
+"18";"Brasil";"Sudeste";"Espírito Santo";32;" 3.997.477";0,019;13;NA;NA
+"19";"Brasil";"Sudeste";"Rio de Janeiro";33;"17.223.196";0,082;3;NA;NA
+"20";"Brasil";"Sudeste";"São Paulo";35;"45.767.282";0,219;1;NA;NA
+"21";"Brasil";"Sul";"Paraná";41;"11.387.429";0,055;5;NA;NA
+"22";"Brasil";"Sul";"Santa Catarina";42;" 7.118.347";0,034;10;NA;NA
+"23";"Brasil";"Sul";"Rio Grande do Sul";43;"11.339.209";0,054;6;NA;NA
+"24";"Brasil";"Centro Oeste";"Mato Grosso do Sul";50;" 2.697.757";0,013;21;NA;NA
+"25";"Brasil";"Centro Oeste";"Mato Grosso";51;" 3.414.169";0,016;17;NA;NA
+"26";"Brasil";"Centro Oeste";"Goiás";52;" 6.983.335";0,033;12;NA;NA
+"27";"Brasil";"Centro Oeste";"Distrito Federal";53;" 2.997.277";0,014;20;NA;NA
