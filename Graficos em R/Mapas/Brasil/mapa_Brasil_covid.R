@@ -1,11 +1,12 @@
 ################################################################################################### 
-######################################### Mapa no R ###############################################
+# SEIDataLab - Laboratorio de Dados da Superintendencia de Estudos Economicos e Sociais da Bahia
 ################################################################################################### 
-#####   DESCRIÇÃO:        Conjunto de Mapas elaborados no R.
-#####   ESCRITO POR:      Cleiton Rocha - www.linkedin.com/in/cleitonoerocha/
-#####   EMAIL:  cleitonrocha@sei.ba.gov.br // cleitonotavio058@gmail.com 
+#####   DESCRIÇÃO:        mapa do coronovirus do InfoVis
+#####   DATA DA CRIAÇÃO:  23/03/2020
+#####   ESCRITO POR:      Cleiton Rocha, Jackson Conceicao, Jonatas Silva, Kellyene Coelho, Rodrigo Cerqueira
+#####   SITE:             https://infovis.sei.ba.gov.br/covid19
 #####   LICENÇA:          GPLv3
-################################################################################################### 
+#####   PROJETO:          https://github.com/SEIDataLab/InfoVisCovid19
 ################################################################################################### 
 
 library(leaflet)
