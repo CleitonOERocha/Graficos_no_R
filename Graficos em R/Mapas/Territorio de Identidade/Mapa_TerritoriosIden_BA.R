@@ -1,4 +1,12 @@
 
+################################################################################################### 
+# SEIDataLab - Laboratorio de Dados da Superintendencia de Estudos Economicos e Sociais da Bahia
+################################################################################################### 
+#####   DESCRIÇÃO:        mapa do dashboard Demografia do InfoVis
+#####   DATA DA CRIAÇÃO:  23/03/2020
+#####   ESCRITO POR:      Cleiton Rocha, Jackson Conceicao, Jonatas Silva
+#####   LICENÇA:          GPLv3
+################################################################################################### 
 
 library(dplyr)
 library(leaflet)
